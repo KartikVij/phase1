@@ -84,4 +84,11 @@ a:hover {
 
 .wrapper p {
   line-height: 31px;
+  
+  
+.pm-button{
+	position: absolute;
+  top: 60%;
+  width: 100%;
+  margin-left: 550px;
 }
